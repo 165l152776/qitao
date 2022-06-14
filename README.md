@@ -1,6 +1,6 @@
 # xgithubs.com的站长是个程序员， 据说没钱吃饭了
 
-xgithubs.com 这个平台或许很少人用， 是专门做github 点赞 star fork follow watch 的插件。据相关人士透露， xgithubs.com的站长是个程序员，为了活下去做了这个GitHub 刷赞 插件， 据说现在已经没钱吃饭了。我加了他微信问了他以下的问题
+xgithubs.com 这个平台或许很少人用， 是专门做github 点赞 star fork follow watch 的插件， 可以加星哦。据相关人士透露， xgithubs.com的站长是个程序员，为了活下去做了这个GitHub 刷赞 插件， 据说现在已经没钱吃饭了。我加了他微信问了他以下的问题
 
 ### 问： 你现在多大了 
 
